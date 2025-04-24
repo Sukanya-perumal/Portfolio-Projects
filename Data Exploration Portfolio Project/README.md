@@ -15,5 +15,5 @@ the dataset for those locations.
 </p>
 <h3>Conclusion:</h3>
 <p>
-The findings of this data exploration project reveal that UHF42 experience the highest levels of air pollution within New York City, according to the surveillance data. Furthermore, the major air pollutants contributing to these high levels, as
-indicated by the data values, are Fine particles (PM 2.5) and Nitrogen Dioxide (NO2). This information underscores the     importance of addressing air pollution in these specific areas to mitigate the environmental threats to the urban population   of New York City.Further investigation could explore the sources of these pollutants and the potential health impacts on      the residents of these high-pollution zones.</p>
+The findings of this data exploration project reveal that UHF42 experience the highest levels of air pollution within New York City, according to the surveillance data. Furthermore, the major air pollutant contributing to these high levels, as
+indicated by the data values, are Fine particles (PM 2.5) and caused more death. This information underscores the     importance of addressing air pollution in these specific areas to mitigate the environmental threats to the urban population   of New York City.Further investigation could explore the sources of these pollutants and the potential health impacts on      the residents of these high-pollution zones.</p>
